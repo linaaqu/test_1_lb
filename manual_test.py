@@ -1,4 +1,4 @@
-import man
+import homework
 
 def test_stroka():
     if man.r_string("Hello") == "olleH":
