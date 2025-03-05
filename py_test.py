@@ -1,4 +1,4 @@
-from calculator import (
+from homework import (
     palindrome,
     back_string,
     vowels,
